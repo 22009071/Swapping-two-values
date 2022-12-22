@@ -26,8 +26,8 @@ End the program
 ## PROGRAM:
 ```python
 #Program to swap two values.
-#Developed by: Pavithra.M
-#RegisterNumber: 22008686
+#Developed by: KABILAN T
+#RegisterNumber: 22009072
 input1 = input()
 input2 = input()
 temp = input2
