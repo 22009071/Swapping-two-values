@@ -36,7 +36,7 @@ input1 = temp
 print('Swapped values are: {} {}'.format(input1,input2))
 ```
 ## output:
-![output](swapping%20.png)
+![output](Screenshot_20230102_075230.png)
 
 ## RESULT:
 
